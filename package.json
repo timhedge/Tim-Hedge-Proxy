@@ -1,0 +1,24 @@
+{
+  "name": "tim-hedge-proxy",
+  "version": "1.0.0",
+  "description": "reverse proxy for FEC",
+  "main": "proxy/server/proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timhedge/Tim-Hedge-Proxy.git"
+  },
+  "author": "Tim Hedge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timhedge/Tim-Hedge-Proxy/issues"
+  },
+  "homepage": "https://github.com/timhedge/Tim-Hedge-Proxy#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
